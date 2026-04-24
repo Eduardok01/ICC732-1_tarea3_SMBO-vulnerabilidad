@@ -1,0 +1,16 @@
+{
+  "generated_at": "2026-04-23T21:27:10.248803+00:00",
+  "sboms": [
+    {
+      "repo": "werkzeug",
+      "sbom_path": "/app/sboms/werkzeug.cdx.json",
+      "component_count": 101,
+      "ecosystems": {
+        "github": 17,
+        "pypi": 78,
+        "unknown": 6
+      },
+      "generated_at": "2026-04-23T21:27:10.225401+00:00"
+    }
+  ]
+}
